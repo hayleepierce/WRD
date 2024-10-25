@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    <!-- needed for htmx usage
+    <head>
+        <script src="https://unpkg.com/htmx.org@2.0.3" integrity="sha384-0895/pl2MU10Hqc6jd4RvrthNlDiE9U1tWmX7WRESftEDRosgxNsQG/Ze9YMRzHq" crossorigin="anonymous"></script>
+    </head> 
+    -->
+    <body>
+        {% include "components/search.html" %}
+        <h1>WRD</h1>
+        <form action="/" method="post">
+            {% include "components/rate_word.html" %}
+        </form>
+    </body>
+</html>

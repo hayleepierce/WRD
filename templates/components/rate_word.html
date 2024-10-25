@@ -1,0 +1,12 @@
+<h2>Word</h2>
+<p>{{word_data.word}}</p>
+<h2>Tags</h2>
+{% for tag in word_data.tags %}
+    <p>{{tag}}</p>
+{% endfor %}
+<h2>Rating</h2>
+<div class="slidercontainer">
+    <input type="range" min="1" max="5" class="slider" name="user_rating">
+</div>
+<input type="hidden" name="word_data" value="{{word_data}}">
+<input type="submit" value="Submit">

@@ -1,0 +1,8 @@
+.slidercontainer {
+    width: 100%; /* Width of the outside container */
+  }
+  
+  /* The slider itself */
+  .slider {
+    width: 100%; /* Full-width */
+  }

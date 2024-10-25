@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+    <body>
+        <h1>WRD</h1>
+        <label for="word">Word</label><br>
+            <form action="/new-word">
+                <input type="text" id="word" name="word"><br>
+                {% for tag in tags %}
+                    <input type="checkbox" id="tag" name={{tag}} value={{tag}}>
+                    <label for={{tag}}>{{tag}}</label><br>
+                {% endfor %}
+                <input type="text" placeholder="Other..." id="new-tag" name="new-tag"><br>
+                <label for="slidercontainer">Rating</label><br>
+                <div class="slidercontainer">
+                    <input type="range" min="1" max="5" class="slider" name="first-rating">
+                </div>
+                <input type="submit" value="Submit">
+            </form>
+        
+    </body>
+</html>
