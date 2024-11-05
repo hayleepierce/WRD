@@ -1,9 +1,10 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_file
 from dotenv_vault import load_dotenv
 from pymongo import MongoClient
 import os
 import ast
 import random
+import json
 
 app = Flask(__name__)
 load_dotenv()
@@ -23,6 +24,12 @@ def update_rating(word_data: dict, user_rating: int):
     new_rating = round((word_data["sentiment rating"] + user_rating)/2, 2)
     wrd.find_one_and_update(word_data, {'$set': {"sentiment rating": new_rating}})
 
+# writes database as a JSON file
+# DEFAULT: writes the entire database
+def write_JSON(fltr: dict = {}):
+    with open("WRD.json", "w") as file:
+        json.dump(wrd.find(fltr, {"_id": False}).to_list(), file)
+
 
 """""
 main page: shows random word with slider to rate, 
@@ -38,7 +45,12 @@ def index():
         update_rating(word_data, user_rating)
     # find random word in database
     result = random.choice(database)
+    write_JSON()
     return render_template("main.html", word_data=result)
+
+@app.route("/download", methods=["GET"])
+def download():
+    return send_file("WRD.json")
 
 """
 Results of the users search
@@ -52,11 +64,13 @@ def search_results():
         for entry in database:
             if search in entry["tags"]:
                 results.append(entry)
+        write_JSON({"tags": search})
         return render_template("search_results.html", search_results=results)
     else:
         for entry in database:
-            if search in entry["word"]:
+            if search == entry["word"]:
                 results.append(entry)
+        write_JSON({"word": search})
         return render_template("search_results.html", search_results=results)
 
 """
