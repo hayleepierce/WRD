@@ -9,7 +9,7 @@
     <body>
         {% include "components/search.html" %}<br>
         {% include "components/download.html" %}<br>
-        <h1>WRD</h1>
+        <img src="/images/logo.jpg" alt="WRD Logo">
         <h1>Search Results</h1>
             {% for word_data in search_results %}
                 <a href="{{ url_for('search_results_word', word=word_data.word) }}">
