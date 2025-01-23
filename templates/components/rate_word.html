@@ -4,9 +4,13 @@
 {% for tag in word_data.tags %}
     <p>{{tag}}</p>
 {% endfor %}
-<h2>Rating</h2>
-<div class="slidercontainer">
-    <input type="range" min="1" max="5" class="slider" name="user_rating">
-</div>
+<h2>Sentiment Rating</h2>
+<table>
+    <strong style="padding-right: 10px;">Negative</strong>
+    <div class="slidercontainer" style="display: inline-block">
+        <input type="range" min="1" max="5" class="slider" name="user_rating">
+    </div>
+    <strong style="padding-left: 10px;">Positive</strong>
+</table><br>
 <input type="hidden" name="word_data" value="{{word_data}}">
 <input type="submit" value="Submit">
