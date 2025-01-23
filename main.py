@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, send_file
-from dotenv_vault import load_dotenv
+from dotenv import load_dotenv
 from pymongo import MongoClient
 import os
 import ast
