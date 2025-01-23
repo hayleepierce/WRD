@@ -1,10 +1,16 @@
 <!doctype html>
 <html lang="en">
+    <head>
+        <!-- needed for htmx usage
+        <script src="https://unpkg.com/htmx.org@2.0.3" integrity="sha384-0895/pl2MU10Hqc6jd4RvrthNlDiE9U1tWmX7WRESftEDRosgxNsQG/Ze9YMRzHq" crossorigin="anonymous"></script>
+        -->
+        <title>WRD</title>
+    </head>
     <body>
         {% include "components/search.html" %}<br>
         {% include "components/download.html" %}<br>
         <h1>WRD</h1>
-        <h2>Search Results</h2>
+        <h1>Search Results</h1>
             {% for word_data in search_results %}
                 <a href="{{ url_for('search_results_word', word=word_data.word) }}">
                     <h3>{{word_data.word}}</h3>
