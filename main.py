@@ -5,6 +5,7 @@ import os
 import ast
 import random
 import json
+import pandas as pd
 
 app = Flask(__name__)
 load_dotenv()
@@ -24,12 +25,14 @@ def update_rating(word_data: dict, user_rating: int):
     new_rating = round((word_data["sentiment rating"] + user_rating)/2, 2)
     wrd.find_one_and_update(word_data, {'$set': {"sentiment rating": new_rating}})
 
-# writes database as a JSON file
+# writes database as a downloadable file formats
 # DEFAULT: writes the entire database
-def write_JSON(fltr: dict = {}):
+def write_files(fltr: dict = {}):
     with open("WRD.json", "w") as file:
-        json.dump(wrd.find(fltr, {"_id": False}).to_list(), file)
-
+        json.dump(wrd.find(fltr, {"_id": False}).to_list(), file, indent=0)
+    with open("WRD.json", "r") as file:
+        pd_data = pd.read_json(file)
+    pd_data.to_csv("WRD.csv")
 
 """""
 main page: shows random word with slider to rate, 
@@ -45,12 +48,22 @@ def index():
         update_rating(word_data, user_rating)
     # find random word in database
     result = random.choice(database)
-    write_JSON()
+    write_files()
     return render_template("main.html", word_data=result)
 
-@app.route("/download", methods=["GET"])
-def download():
+"""
+Download the database as a json file.
+"""
+@app.route("/download-json", methods=["GET"])
+def download_json():
     return send_file("WRD.json")
+
+"""
+Download the database as a csv file.
+"""
+@app.route("/download-csv", methods=["GET"])
+def download_csv():
+    return send_file("WRD.csv")
 
 """
 Results of the users search
@@ -64,13 +77,13 @@ def search_results():
         for entry in database:
             if search in entry["tags"]:
                 results.append(entry)
-        write_JSON({"tags": search})
+        write_files({"tags": search})
         return render_template("search_results.html", search_results=results)
     else:
         for entry in database:
             if search == entry["word"]:
                 results.append(entry)
-        write_JSON({"word": search})
+        write_files({"word": search})
         return render_template("search_results.html", search_results=results)
 
 """
