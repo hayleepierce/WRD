@@ -91,6 +91,7 @@ Allows user to rate a word from their search results
 """
 @app.route("/search-results/<word>", methods=["GET"])
 def search_results_word(word):
+    write_files()
     for entry in database:
         if entry["word"] == word:
             return render_template("main.html", word_data=entry)
@@ -139,3 +140,6 @@ displays it
 #     #accessing the words collections within the WRD database
 #     result = wrd.insert_one(word_data)
 #     return result
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000, debug=False, threaded=True)
