@@ -1,0 +1,7219 @@
+[
+{
+"word": "acceptance",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "admiration",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "adoration",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "affection",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "afraid",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "agitation",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "agony",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "aggressive",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "alarm",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "alarmed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "alienation",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "amazement",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "ambivalence",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "amusement",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "anger",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "anguish",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "annoyed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "anticipating",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "anxious",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "apathy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "apprehension",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "arrogant",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "assertive",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "astonished",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "attentiveness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "attraction",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "aversion",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "awe",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "baffled",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "bewildered",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "bitter",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "bliss",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "bored",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "brazen",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "brooding",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "calm",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "carefree",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "careless",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "caring",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "charity",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "cheeky",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "cheerfulness",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "claustrophobic",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "coercive",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "comfortable",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "confident",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "confusion",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "contempt",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "content",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "courage",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "cowardly",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "cruelty",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "curiosity",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "cynicism",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dazed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dejection",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "delighted",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "demoralized",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "depressed",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "desire",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "despair",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "determined",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disappointment",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disbelief",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "discombobulated",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "discomfort",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "discontentment",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disgruntled",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disgust",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disheartened",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dislike",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dismay",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disoriented",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dispirited",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "displeasure",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "distraction",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "distress",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "disturbed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dominant",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "doubt",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dread",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "driven",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "dumbstruck",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "eagerness",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "ecstasy",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "elation",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "embarrassment",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "empathy",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "enchanted",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "enjoyment",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "enlightened",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "ennui",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "enthusiasm",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "envy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "epiphany",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "euphoria",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "exasperated",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "excitement",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "expectancy",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "fascination",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "fear",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "flakey",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "focused",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "fondness",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "friendliness",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "fright",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "frustrated",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "fury",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "glee",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "gloomy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "glumness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "gratitude",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "greed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "grief",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "grouchiness",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "grumpiness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "guilt",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "happiness",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hate",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hatred",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "helpless",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "homesickness",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hope",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hopeless",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "horrified",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hospitable",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "humiliation",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "humility",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hurt",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "hysteria",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "idleness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "impatient",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "indifference",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "indignant",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "infatuation",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "infuriated",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "insecurity",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "insightful",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "insulted",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "interest",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "intrigued",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "irritated",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "isolated",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "jealousy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "joviality",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "joy",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "jubilation",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "kind",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "lazy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "liking",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "loathing",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "lonely",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "longing",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "loopy",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "love",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "lust",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "mad",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "melancholy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "miserable",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "miserliness",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "mixed up",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "modesty",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "moody",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "mortified",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "mystified",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "nasty",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "nauseated",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "negative",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "neglect",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "nervous",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "nostalgic",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "numb",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "obstinate",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "offended",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "optimistic",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "outrage",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "overwhelmed",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "panicked",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "paranoid",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "passion",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "patience",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "pensiveness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "perplexed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "persevering",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "pessimism",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "pity",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "pleased",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "pleasure",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "politeness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "positive",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "possessive",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "powerless",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "pride",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "puzzled",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "rage",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "rash",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "rattled",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "regret",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "rejected",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "relaxed",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "relieved",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "reluctant",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "remorse",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "resentment",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "resignation",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "restlessness",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "revulsion",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "ruthless",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "sadness",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "satisfaction",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "scared",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "scorn",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "sentimentality",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "serenity",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "shame",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "shameless",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "shocked",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "smug",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "sorrow",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "spite",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "stressed",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "strong",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "stubborn",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "stuck",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "submissive",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "suffering",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "sullenness",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "surprise",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "suspense",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "suspicious",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "sympathy",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "tenderness",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "tension",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "terror",
+"sentiment rating": 1,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "thankfulness",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "thrilled",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "tired",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "tolerance",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "torment",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "triumphant",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "troubled",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "trust",
+"sentiment rating": 5,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "uncertainty",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "undermined",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "uneasiness",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "unhappy",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "unnerved",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "unsettled",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "unsure",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "upset",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "vengeful",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "vicious",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "vigilance",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "vulnerable",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "weak",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "woe",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "worried",
+"sentiment rating": 2,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "worthy",
+"sentiment rating": 4,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "wrath",
+"sentiment rating": 3,
+"tags": [
+"emotion"
+]
+},
+{
+"word": "obsession",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "transgender",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "line",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "attack",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "year",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "candidate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "campaign",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "assault",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "thing",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "breath",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "weekend",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "panel",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "discussion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "summer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "passage",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "discrimination",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "education",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sex",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "equality",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "movement",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "neglect",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "example",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "executive",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "vice",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "president",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "impact",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "expansion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "country",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "journalist",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "tennis",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "lack",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "director",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "college",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "level",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "platform",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "woman",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "role",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "attention",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "support",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "position",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "panelist",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "writer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "film",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "wing",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "basketball",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "player",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "climate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "panic",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fear",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "scarcity",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "athlete",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "knowledge",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "threat",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "course",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "charge",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "leadership",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "equipment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "recruitment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "marginalization",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "timing",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "government",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "message",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "theocracy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sense",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "word",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "propagandist",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "history",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "epic",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "thesis",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "society",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "self",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "love",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "point",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "rebellion",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "authority",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "realist",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "qualifier",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "foundation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "status",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "quo",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "destiny",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "relation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "imperialism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "norm",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "proto",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "base",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "expand",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "coast",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "system",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "citizenry",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "asset",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "alliance",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "world",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "war",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "relationship",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "choice",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "conflict",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "modernist",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "liberalism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "communism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "peace",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fellow",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fascism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "faith",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "family",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "propaganda",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "convenience",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "competition",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "left",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "globe",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "gaze",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "faithful",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "tomorrow",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "power",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "flag",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "policy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "hierarchy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "state",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "argument",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "disparity",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "material",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "root",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "justification",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "totalitarianism",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "elite",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "side",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "logic",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "intervention",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "control",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "culture",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "notion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "rest",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "thumb",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "class",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "farmer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "businessman",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sociology",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "department",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "gender",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "anything",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "priest",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "day",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "visibility",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "event",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "deliberate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "powerplay",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "group",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "royal",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "question",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "neutrality",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "myth",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "idea",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "ideology",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "concept",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "end",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "worldview",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "religion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sort",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "reason",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "temple",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "change",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "ruling",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "counter",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "bureaucracy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "theology",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "way",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "book",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "shift",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "period",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "time",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "symbolism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "revolution",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "set",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "tendency",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "commentariat",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "holy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "justify",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "poverty",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "virtue",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sexuality",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "historian",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "lesson",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "rise",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "establishment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "necessity",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "resolute",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "rule",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "era",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "community",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "person",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "prison",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "chance",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "lawyer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "judge",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "saw",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fit",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "association",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "mindset",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "view",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "identity",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "youth",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "legislation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "anyone",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "age",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "consent",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "story",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "decision",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "approach",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "death",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "schooler",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "number",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "desire",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "response",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "author",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "rejection",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "adult",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "instinct",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "acceptance",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "%",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "marriage",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "researcher",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "debt",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "law",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "miracle",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "female",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "birth",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "child",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "teen",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "makeup",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "attire",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "playing",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "name",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "vaccine",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "someone",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "pronoun",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "moment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "identification",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "effect",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "appointment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "information",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "registry",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "process",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "mother",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "request",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "opportunity",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "school",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "diploma",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "call",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "break",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "chemistry",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "region",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "month",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "home",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "passing",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "phase",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "health",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "treatment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "beating",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "protection",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "parliament",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "blood",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "proposal",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "reality",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "outcome",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "decade",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "part",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "work",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "organization",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "pathology",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "childhood",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "adulthood",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "activism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "prominence",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "music",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "television",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "majority",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "debate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "expense",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "core",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "construct",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "something",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "right",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sign",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "progress",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "pushback",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "case",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "repeal",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "backlash",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "kinder",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "light",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "father",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "girl",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "male",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "son",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "daughter",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "staff",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "student",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "orientation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "permission",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "ability",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "spokesperson",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "statement",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "parent",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "advocate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "notification",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "well",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "trust",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "care",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "bar",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "require",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "language",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "share",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "opponent",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "bill",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "hearing",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "board",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "union",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "labor",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "dispute",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "district",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "teacher",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "kind",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "situation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "anybody",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "favor",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sprinter",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "week",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "length",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "participation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "unfair",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "photo",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "anger",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "cheat",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "shaming",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "model",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "preference",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "womanhood",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "swimmer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sport",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "everyone",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "meter",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "heat",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "race",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "best",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "second",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "half",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "lifetime",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "transition",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "career",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "hormone",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "runner",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "opinion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "finishing",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "advantage",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "ceremony",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "failure",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "dash",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sporting",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "target",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fervor",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "weightlifter",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "lift",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "division",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "title",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "amateur",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "collegiate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "spot",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "cis",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "clever",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "play",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "scholarship",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "thinking",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "exclusion",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "performance",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "estrogen",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "consistent",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "difference",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fairness",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "type",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "ban",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "value",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "humanity",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "proof",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "pudding",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "track",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "rage",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "return",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "life",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "bigot",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "place",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "review",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "science",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "phalloplasty",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "none",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "article",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "demonstrate",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "harm",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "surgery",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "taxpayer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "problem",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "text",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "craze",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "nature",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "enemy",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "iteration",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "modernism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "substance",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "body",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "align",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "inner",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "narrative",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "truth",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "disfigurement",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sterilization",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "evidence",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "benefit",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "study",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "conclusion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "reliance",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "answer",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "explanation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "therapy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "contrast",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "therapist",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "causality",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "thought",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "boy",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "licensure",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "access",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "concern",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "cult",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "expert",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "affirmation",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "pipeline",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "hormonal",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "consensus",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "advice",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "possibility",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "dysphoria",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "application",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "analysis",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "vision",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "place",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "man",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "demon",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "worship",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "quote",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sponge",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "structure",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "belief",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "compass",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "identify",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "pawn",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "foot",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "soldier",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "crusade",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "dark",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "thats",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "help",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "transgenderism",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "cultlife",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "charisma",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "puberty",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "penis",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "vagina",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "violation",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "imagination",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "gift",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "task",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "mind",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "soul",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "use",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "guinea",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "need",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "wonder",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "alignment",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "creator",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "act",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "creation",
+"sentiment rating": 4,
+"tags": [
+"noun"
+]
+},
+{
+"word": "human",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "happiness",
+"sentiment rating": 5,
+"tags": [
+"noun"
+]
+},
+{
+"word": "order",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "siren",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "fight",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "live",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "refusal",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "custody",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "code",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "criterion",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "basis",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "universe",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "sin",
+"sentiment rating": 1,
+"tags": [
+"noun"
+]
+},
+{
+"word": "denying",
+"sentiment rating": 2,
+"tags": [
+"noun"
+]
+},
+{
+"word": "lam",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "chat",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "room",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "loud",
+"sentiment rating": 3,
+"tags": [
+"noun"
+]
+},
+{
+"word": "real",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "many",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "few",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "weird",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "key",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "midterm",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "actual",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "legitimate",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "past",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "clear",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "sophomoric",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "conservative",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "misogynistic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "heavier",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "social",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "high",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "white",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "brown",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "stubborn",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "athletic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "powerful",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "neglected",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "own",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "right",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "former",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "trans",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "existential",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "more",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "pressing",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "patriarchal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "denial",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "adequate",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "poor",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "whole",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ignominious",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "religious",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "satanic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "literal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "literary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "chief",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "famous",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "sympathetic",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "central",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "radical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "perpetual",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "natural",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "plausible",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "revolutionary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "providential",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "other",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "global",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "hemisphere",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "industrial",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "educational",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "republican",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "different",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "pre",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "special",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "imperial",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "elite",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ambivalent",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ideological",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "secular",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "authoritarian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "pro",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "christian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "brutal",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "american",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "faith",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "foreign",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "domestic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "hierarchical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "liberal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unlimited",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "external",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unfixable",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "material",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "easier",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "small",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "common",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "new",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "presidential",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "random",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "core",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "single",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "neutral",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "current",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ludicrous",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "theological",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "protestant",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "near",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "dawkinsian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "specific",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "absurd",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ahistorical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "similar",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "modern",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "much",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "cultural",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "old",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "older",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "mixed",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "wooden",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "important",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "top",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "pick",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "military",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "political",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "steady",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "martial",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "stable",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "subtle",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "fanatical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "idiotic",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "preachy",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "grim",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "last",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "last",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "legal",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "judicial",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "parental",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "recent",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "fresh",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "opposite",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "sick",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "same",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "broad",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "historic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "cristian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "senior",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unique",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "inclusive",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "intersectional",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "historical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "feminine",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "masculine",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "fantastic",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "spanish",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "civil",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "able",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "honest",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "positive",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "young",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "hormonal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "first",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "regional",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "gloved",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "inconceivable",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unheard",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "large",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "vital",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "like",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "little",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "public",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "possible",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "such",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "crucial",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "identification",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "various",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "familiarize",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "firm",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "acrimonious",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "quiet",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "national",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "extra",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "progressive",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "normal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "sexual",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unwelcoming",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "transparent",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "nationwide",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "local",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "safe",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "critical",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "child",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "personal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "several",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "democratic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "nonbinary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "emotional",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "heated",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "difficult",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "outspoken",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unfair",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "lose",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "guardian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "paralympian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "beloved",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "italian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "transgender",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "wrong",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "gender",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "grainy",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "inspirational",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "proud",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "regressive",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "vocal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "general",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "anti",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "easy",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ban",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "final",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "third",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "semifinal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "full",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "sprint",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "medical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "long",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "slower",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ukrainian",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "female",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "fair",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "short",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "thrower",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unnoticed",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "international",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "comparable",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "best",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "big",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "deserving",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "total",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "athlete",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "worse",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "cis",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "exclusionary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "mainstream",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "federal",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "necessary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "spiritual",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "surgical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "scientific",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "permanent",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "strong",
+"sentiment rating": 5,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "impossible",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "further",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "false",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "true",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "imaginary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "hard",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "therapeutic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "healthy",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "alternate",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "effective",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "overall",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "significant",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "immediate",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "mental",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "proper",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "condemn",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "direct",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "narrative",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "human",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "representative",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "ready",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "meaningful",
+"sentiment rating": 4,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "dangerous",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "toxic",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "unsafe",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "moral",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "imaginative",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "insufficient",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "self",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "evident",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "harmful",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "need",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "neo",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "philosophical",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "primary",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "creational",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "contingent",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "complex",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "least",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "grave",
+"sentiment rating": 2,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "worst",
+"sentiment rating": 1,
+"tags": [
+"adjective"
+]
+},
+{
+"word": "delusional",
+"sentiment rating": 3,
+"tags": [
+"adjective"
+]
+}
+]
