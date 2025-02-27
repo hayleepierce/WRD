@@ -41,7 +41,7 @@ from noun_adjective_entries import noun_entries, adjective_entries
 
 # Read data from a given csv file
 def read_csv(filename):
-    # Initialize lists
+    # Initialize list
     ratings = []
 
     # Open the given file
@@ -50,13 +50,12 @@ def read_csv(filename):
         csvfile = csv.reader(file)
         # Iterate through the lines in the file
         for line in csvfile:
-            # Remove & save the last item each line
+            # Remove & save the sentiment value
             y = line.pop(2)
             if y is not None and y != "sentiment rating":
-                # Add the saved item to the all_y_trues list as floats
+                # Convert value to float, add to list
                 ratings.append(float(y))
     return ratings
-
 
 orgin_ratings = read_csv("data/WRD_orgin.csv")
 updated_ratings = read_csv("data/WRD_updated.csv")
