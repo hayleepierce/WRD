@@ -1,13 +1,17 @@
 import csv
+import numpy as np
+from sklearn.naive_bayes import GaussianNB
+from sklearn.feature_extraction.text import CountVectorizer
 from articles import arts as articles
-from nltk import NaiveBayesClassifier
 
 """ Training the Naive Bayes Classifier using the given data. """
 
+# Get the training data from the given file
+# train_x: words, train_y: labels
 def get_train_set(filename):
     # Initialize lists
-    words = []
-    train_set = []
+    train_x = []
+    train_y = []
     # Open and read the given file
     with open(filename, "r") as file:
         csvfile = csv.reader(file)
@@ -15,44 +19,32 @@ def get_train_set(filename):
         for line in csvfile:
             # Add the data in the necessary format
             # TODO: Reconfigure the labels? Make similar to other datasets?
-            if line[2] != "sentiment rating":
-                words.append(f'contains({line[1]})')
-                train_set.append(({f'contains({line[1]})': True}, int(float((line[2])))))
-    return train_set, words
+            if "sentiment rating" not in line:
+                train_x.append(line[1])
+                train_y.append(int(float(line[2])))
 
-# Not helpful
-def rm_unknowns(words, articles):
-    for article in articles:
-        art = {}
-        for word in article:
-            if word in words:
-                art.update({f'contains({word})': True})
-        article = art
+    # Vectorize the training data
+    train_x = vectorizer.fit_transform(train_x)
 
-""" Training the Naive Bayes Classifier using the original data. """
+    # Convert lists to arrays
+    train_x, train_y = train_x.toarray(), np.array(train_y)
+    
+    # Return the training data
+    return train_x, train_y
 
-train_set, words = get_train_set("data/WRD_orgin.csv")
+# Initialize the CountVectorizer
+vectorizer = CountVectorizer()
 
-# Train the Naive Bayes Classifier
-orgin = NaiveBayesClassifier.train(train_set)
+# Get the training data
+train_x, train_y = get_train_set("data/WRD_updated.csv")
 
-# Print the most informative features
-print(orgin.show_most_informative_features(5))
+# Initialize the Gaussian Naive Bayes model
+model = GaussianNB()
 
-# Test the classifier
-for article in articles:
-    print(orgin.classify(article))
+# Fit the model with the training data
+model.fit(train_x, train_y)
 
-""" Training the Naive Bayes Classifier using the updated data. """
+# TODO: Predict articles
+# predictions = model.predict(vectorizer.transform([TODO]).toarray())
 
-train_set, words = get_train_set("data/WRD_updated.csv")
-
-# Train the Naive Bayes Classifier
-updated = NaiveBayesClassifier.train(train_set)
-
-# Print the most informative features
-print(updated.show_most_informative_features(5))
-
-# Test the classifier
-for article in articles:
-    print(updated.classify(article))
+# print(predictions)
