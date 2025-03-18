@@ -1,9 +1,13 @@
 
 import os
 from string import punctuation
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import nltk
+from nltk.corpus import stopwords
+# from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 """ Clean the text data (articles). """
+
+stop_words = set(stopwords.words('english'))
 
 # Add to string.punctuation
 punctuation += "-â€“”™‘’—–"
@@ -20,30 +24,22 @@ for txt in os.scandir("data/articles"):
         paragraphs = f.readlines()
         # Iterate through the lines
         for paragraph in paragraphs:
-            # Make all text lowercase
-            paragraph = paragraph.lower()
-            # Remove newlines
-            paragraph = paragraph.replace("\n", "")
-            # Remove special characters
-            for i in punctuation:
-                paragraph = paragraph.replace(i, " ")
-            # Remove double spaces
-            while "  " in paragraph:
-                paragraph = paragraph.replace("  ", " ")
-            if paragraph != "":
-                # Add the cleaned paragraph to the article list
-                article.append(paragraph)
-    # Add the article to the articles list
+            # Split the paragraph into words
+            words = paragraph.split(" ")
+            # Iterate through the words in the paragraph
+            for word in words:
+                # Convert to lowercase
+                word = word.lower()
+                # Remove punctuation
+                for i in punctuation:
+                    word = word.replace(i, "")
+                # Remove new line characters
+                word = word.replace("\n", "")
+                # Only add the word if it is not empty and not a stop word
+                if word != "" and word not in stop_words:
+                    article.append(word)
+    # Add the cleaned article to the list of articles
     articles.append(article)
-
-arts = []
-for article in articles:
-    art = {}
-    for paragraph in article:
-        words = paragraph.split()
-        for word in words:
-            art.update({f'contains({word})': False})
-    arts.append(art)
     
 """ Find the sentiment rating of each article. """
 
