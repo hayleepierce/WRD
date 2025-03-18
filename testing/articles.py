@@ -1,7 +1,6 @@
 
 import os
 from string import punctuation
-import nltk
 from nltk.corpus import stopwords
 # from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
