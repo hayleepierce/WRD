@@ -28,7 +28,6 @@ def get_train_set(filename):
         # Iterate through the lines in the file
         for line in csvfile:
             # Add the data in the necessary format
-            # TODO: Reconfigure the labels? Make similar to other datasets?
             if "sentiment rating" not in line:
                 train_x.append(line[1])
                 train_y.append(round(float(line[2])))
