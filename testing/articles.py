@@ -39,30 +39,3 @@ for txt in os.scandir("data/articles"):
                     article.append(word)
     # Add the cleaned article to the list of articles
     articles.append(article)
-    
-""" Find the sentiment rating of each article. """
-
-# Initialize sentiment analyzer (VADER)
-# sia = SentimentIntensityAnalyzer()
-
-# rating = 0
-# art = ""
-# for article in articles:
-#     for paragraph in article:
-#         art += paragraph
-#     sia_scores = sia.polarity_scores(art)
-#     print(sia_scores)
-    #     sia_scores = sia.polarity_scores(paragraph)
-    #     sia_score = sia_scores["compound"]
-    #     if sia_score <= -0.5:
-    #         n_rating = 1
-    #     elif sia_score > -0.5 and sia_score < 0:
-    #         n_rating = 2
-    #     elif sia_score == 0:
-    #         n_rating = 3
-    #     elif sia_score < 0.5 and sia_score > 0:
-    #         n_rating = 4
-    #     elif sia_score >= 0.5:
-    #         n_rating = 5
-    #     rating = (rating + n_rating) / 2
-    # print(round(rating, 2))
