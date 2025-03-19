@@ -7,6 +7,10 @@ import pickle
 
 """ Training the Gaussian Naive Bayes model using the given data. """
 
+def calculate_percentage(value, total):
+    percentage = round((value / total) * 100)
+    return percentage
+
 def vectorization(train_x, train_y, vectorizer):
     # Vectorize the training data
     train_x = vectorizer.fit_transform(train_x)
@@ -43,11 +47,19 @@ def predict_article_sentiment(articles, model, vectorizer):
         vectorized_article = vectorizer.transform(article).toarray()
         # Predict the sentiment rating of the article
         prediction = model.predict(vectorized_article).tolist()
+        # Find mean of predictions
         total = 0
         for pred in prediction:
             total += pred
         mean = (total / len(prediction))
-        print(f"Predicted sentiment rating for article: {mean}")
+        # Print mean prediction
+        print(f"Predicted sentiment rating for article {articles.index(article) + 1}: {round(mean, 2)}")
+        # Print individual prediction totals
+        print(f"1: {calculate_percentage(prediction.count(1), len(prediction))}%", 
+              f"2: {calculate_percentage(prediction.count(2), len(prediction))}%",
+              f"3: {calculate_percentage(prediction.count(3), len(prediction))}%",
+              f"4: {calculate_percentage(prediction.count(4), len(prediction))}%",
+              f"5: {calculate_percentage(prediction.count(5), len(prediction))}%")
 
 # Initialize the CountVectorizer
 vectorizer = CountVectorizer()
@@ -97,7 +109,7 @@ senticnet_data = pickle.load(picklefile)
 picklefile.close()
 
 # Vectorize the SenticNet data
-train_x, train_y = vectorization(senticnet_data[0], senticnet_data[1], vectorizer)
+train_x, train_y = vectorization(senticnet_data[0][:30000], senticnet_data[1][:30000], vectorizer)
 
 # Initialize the Gaussian Naive Bayes model
 model = GaussianNB()
