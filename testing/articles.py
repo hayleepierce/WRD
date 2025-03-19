@@ -2,7 +2,6 @@
 import os
 from string import punctuation
 from nltk.corpus import stopwords
-# from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 """ Clean the text data (articles). """
 
