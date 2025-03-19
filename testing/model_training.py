@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.naive_bayes import GaussianNB
 from sklearn.feature_extraction.text import CountVectorizer
 from articles import articles
-from other_copora import senticnet_data, afinn_data
+import pickle
 
 """ Training the Gaussian Naive Bayes model using the given data. """
 
@@ -46,13 +46,15 @@ def predict_article_sentiment(articles, model, vectorizer):
         total = 0
         for pred in prediction:
             total += pred
-        mean = round(total / len(prediction))
+        mean = (total / len(prediction))
         print(f"Predicted sentiment rating for article: {mean}")
 
 # Initialize the CountVectorizer
 vectorizer = CountVectorizer()
 
 """ Train using WRD data. """
+
+print("Training with WRD...")
 
 # Get the training data
 train_x, train_y = get_train_set("data/WRD_updated.csv")
@@ -67,6 +69,13 @@ predict_article_sentiment(articles, model, vectorizer)
 
 """ Train using AFINN data. """
 
+print("Training with AFINN...")
+
+# Load data from pickle file
+picklefile = open("data/afinnPickle", "rb")
+afinn_data = pickle.load(picklefile)
+picklefile.close()
+
 # Vectorize the AFINN data
 train_x, train_y = vectorization(afinn_data[0], afinn_data[1], vectorizer)
 
@@ -79,6 +88,13 @@ model.fit(train_x, train_y)
 predict_article_sentiment(articles, model, vectorizer)
 
 """ Train using SenticNet data. """
+
+print("Training with SenticNet...")
+
+# Load data from pickle file
+picklefile = open("data/senticnetPickle", "rb")
+senticnet_data = pickle.load(picklefile)
+picklefile.close()
 
 # Vectorize the SenticNet data
 train_x, train_y = vectorization(senticnet_data[0], senticnet_data[1], vectorizer)
