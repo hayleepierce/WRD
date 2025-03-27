@@ -2,7 +2,7 @@ import csv
 import numpy as np
 from sklearn.naive_bayes import GaussianNB
 from sklearn.feature_extraction.text import CountVectorizer
-from articles import articles
+from articles import source_articles, topic_articles
 import pickle
 
 """ Training the Gaussian Naive Bayes model using the given data. """
@@ -77,7 +77,11 @@ model = GaussianNB()
 # Fit the model with the training data
 model.fit(train_x, train_y)
 
-predict_article_sentiment(articles, model, vectorizer)
+print("Source Articles")
+predict_article_sentiment(source_articles, model, vectorizer)
+print("Topic Articles")
+predict_article_sentiment(topic_articles, model, vectorizer)
+
 
 """ Train using AFINN data. """
 
@@ -97,19 +101,22 @@ model = GaussianNB()
 # Fit the model with the training data
 model.fit(train_x, train_y)
 
-predict_article_sentiment(articles, model, vectorizer)
+print("Source Articles")
+predict_article_sentiment(source_articles, model, vectorizer)
+print("Topic Articles")
+predict_article_sentiment(topic_articles, model, vectorizer)
 
-""" Train using SenticNet data. """
+""" Train using VADER data. """
 
-print("Training with SenticNet...")
+print("Training with VADER...")
 
 # Load data from pickle file
-picklefile = open("data/senticnetPickle", "rb")
-senticnet_data = pickle.load(picklefile)
+picklefile = open("data/vaderPickle", "rb")
+vader_data = pickle.load(picklefile)
 picklefile.close()
 
-# Vectorize the SenticNet data
-train_x, train_y = vectorization(senticnet_data[0][:30000], senticnet_data[1][:30000], vectorizer)
+# Vectorize the VADER data
+train_x, train_y = vectorization(vader_data[0], vader_data[1], vectorizer)
 
 # Initialize the Gaussian Naive Bayes model
 model = GaussianNB()
@@ -117,4 +124,7 @@ model = GaussianNB()
 # Fit the model with the training data
 model.fit(train_x, train_y)
 
-predict_article_sentiment(articles, model, vectorizer)
+print("Source Articles")
+predict_article_sentiment(source_articles, model, vectorizer)
+print("Topic Articles")
+predict_article_sentiment(topic_articles, model, vectorizer)
