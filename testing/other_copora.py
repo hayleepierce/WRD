@@ -20,27 +20,27 @@ def convert_values(values, new_min, new_max, old_min, old_max):
     return new_values
 
 if __name__ == "__main__":
-    # Load the SenticNet data from 2022
+    # Load the VADER data from 2014
     load = archive.load()
-    senticnet = load.origin("SenticNet_v2022")
+    vader = load.origin("VADER_v2014")
 
     # Grab the words and sentiment ratings
     train_x = []
     train_y = []
-    for i in range(300000):
-        word = senticnet.loc[i]["CONCEPT"]
-        polarity = senticnet.loc[i]["POLARITY INTENSITY"]
+    for i in range(7517):
+        word = vader.loc[i]["SentimentExpression"]
+        polarity = vader.loc[i]["mean"]
         train_x.append(str(word))
         train_y.append(float(polarity))
 
-    # Convert ratings from a (-1, 1) scale to a (1, 5) scale
-    train_y = convert_values(train_y, 1, 5, -1, 1)
+    # Convert ratings from a (-4, 4) scale to a (1, 5) scale
+    train_y = convert_values(train_y, 1, 5, -4, 4)
 
-    senticnet_data = [train_x, train_y]
+    vader_data = [train_x, train_y]
 
     # Dump data with pickle
-    picklefile = open("data/senticnetPickle", "ab")
-    pickle.dump(senticnet_data, picklefile)
+    picklefile = open("data/vaderPickle", "ab")
+    pickle.dump(vader_data, picklefile)
     picklefile.close()
 
     # Load the AFINN data from 2015
